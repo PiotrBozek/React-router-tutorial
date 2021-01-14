@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-router-tutorial/static/css/main.b830a6fd.chunk.css",
+    "main.js": "/React-router-tutorial/static/js/main.cedaac3b.chunk.js",
+    "main.js.map": "/React-router-tutorial/static/js/main.cedaac3b.chunk.js.map",
+    "runtime-main.js": "/React-router-tutorial/static/js/runtime-main.b6c74093.js",
+    "runtime-main.js.map": "/React-router-tutorial/static/js/runtime-main.b6c74093.js.map",
+    "static/js/2.569b4983.chunk.js": "/React-router-tutorial/static/js/2.569b4983.chunk.js",
+    "static/js/2.569b4983.chunk.js.map": "/React-router-tutorial/static/js/2.569b4983.chunk.js.map",
+    "index.html": "/React-router-tutorial/index.html",
+    "static/css/main.b830a6fd.chunk.css.map": "/React-router-tutorial/static/css/main.b830a6fd.chunk.css.map",
+    "static/js/2.569b4983.chunk.js.LICENSE.txt": "/React-router-tutorial/static/js/2.569b4983.chunk.js.LICENSE.txt",
+    "static/media/header1.e210d623.jpg": "/React-router-tutorial/static/media/header1.e210d623.jpg",
+    "static/media/header2.26d6661b.jpg": "/React-router-tutorial/static/media/header2.26d6661b.jpg",
+    "static/media/header3.1b8172a4.jpg": "/React-router-tutorial/static/media/header3.1b8172a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6c74093.js",
+    "static/js/2.569b4983.chunk.js",
+    "static/css/main.b830a6fd.chunk.css",
+    "static/js/main.cedaac3b.chunk.js"
+  ]
+}
